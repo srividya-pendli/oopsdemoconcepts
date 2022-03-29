@@ -1,0 +1,7 @@
+C:\Users\MADHUKAR P\source\repos\Oopsdemos\Oopsdemos\bin\Debug\Oopsdemos.exe.config
+C:\Users\MADHUKAR P\source\repos\Oopsdemos\Oopsdemos\bin\Debug\Oopsdemos.exe
+C:\Users\MADHUKAR P\source\repos\Oopsdemos\Oopsdemos\bin\Debug\Oopsdemos.pdb
+C:\Users\MADHUKAR P\source\repos\Oopsdemos\Oopsdemos\obj\Debug\Oopsdemos.csproj.AssemblyReference.cache
+C:\Users\MADHUKAR P\source\repos\Oopsdemos\Oopsdemos\obj\Debug\Oopsdemos.csproj.CoreCompileInputs.cache
+C:\Users\MADHUKAR P\source\repos\Oopsdemos\Oopsdemos\obj\Debug\Oopsdemos.exe
+C:\Users\MADHUKAR P\source\repos\Oopsdemos\Oopsdemos\obj\Debug\Oopsdemos.pdb
