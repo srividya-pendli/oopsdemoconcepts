@@ -1,4 +1,5 @@
 ﻿using Oopsdemos.classandobject;
+using Oopsdemos.Polymarphism;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,7 @@ namespace Oopsdemos
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to oops");
-            Console.WriteLine("1:classandobject");
+            Console.WriteLine("1:classandobject\n2:Inheritance\n3:methodoverload\n4:methodoverride");
             int option = Convert.ToInt32(Console.ReadLine());
             switch (option)
             {
@@ -24,6 +25,20 @@ namespace Oopsdemos
                     apple.FruitDetails();
                     Fruit orange = new Fruit("orange", "yellow");
                     orange.FruitDetails();
+                    break;
+                case 2:
+                    car car = new .car();
+                    car.brand = "BMW";
+                    car.start();
+                    break;
+                case 3:
+                    Addition addition = new Addition();
+                    addition.Add(10, 20, 30);
+                    break;
+                case 4:
+                    PartTimeEmployee partTime = new PartTimeEmployee();
+                    partTime.empName = "srividya";
+                    partTime.calculatesalary();
                     break;
                 default:
                     Console.WriteLine("please choose number within range");

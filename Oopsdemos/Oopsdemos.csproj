@@ -44,11 +44,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="classandobject\Fruit.cs" />
+    <Compile Include="Inheritance\Car.cs" />
+    <Compile Include="Inheritance\vechicle.cs" />
+    <Compile Include="Polymarphism\Addition.cs" />
+    <Compile Include="Polymarphism\methodoverride\Empolyee.cs" />
+    <Compile Include="Polymarphism\methodoverride\PartTimeEmpolyee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Polymarphism\methodoverload\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
