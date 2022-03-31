@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Oopsdemos.Polymarphism.methodoverride
 {
-    public class PartTimeEmpolyee : Employee
+    class PartTimeEmpolyee:Empolyee
     {
-        public void CaluculateSalary()
+        public new void CaluculateSalary()
         {
             Console.WriteLine("2000");
         }

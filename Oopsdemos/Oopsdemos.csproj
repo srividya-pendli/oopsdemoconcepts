@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstraction\Animal.cs" />
+    <Compile Include="Abstraction\Dog.cs" />
     <Compile Include="classandobject\Fruit.cs" />
+    <Compile Include="Encapuslation\Account.cs" />
     <Compile Include="Inheritance\Car.cs" />
     <Compile Include="Inheritance\vechicle.cs" />
     <Compile Include="Polymarphism\Addition.cs" />

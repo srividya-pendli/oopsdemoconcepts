@@ -6,21 +6,20 @@ using System.Threading.Tasks;
 
 namespace Oopsdemos.Polymarphism.methodoverride
 {
-
-    public class Employee
+    class Empolyee
     {
-
-
         public string empName, address;
         public int Id;
-
-        public void EmployeeDetails()
+        public void EmpolyeeDetails()
         {
-            Console.WriteLine("employee Name:{0}", empName);
+            Console.WriteLine("Empolyee Name:{0}", empName);
         }
         public void CalculateSalary()
         {
             Console.WriteLine("5000");
         }
+
+
     }
 }
+
